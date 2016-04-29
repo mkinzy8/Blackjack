@@ -25,10 +25,25 @@ public class Game_Mechanics
         return 0;
     }
     
-    public int catching()
+    public boolean catching()
     {
         
-        return 0;
+        boolean caught = true;
+        int catching = ( 3 * MaxHP - 2 * HP );
+        catching = catching * (CATCHRATE * BALLMODIFIER);
+        catching = catching / ((3 * MaxHP)) * Status Modifier;
+        if (catching == 255)
+        {
+            return true;
+        }
+        else
+        {
+            
+            for (int x = 0; x<3 && caught == true; x++)
+            {
+                if((1048560 / sqrt(sqrt(16711680 / catching)) = (220 - 24) / sqrt(sqrt((224 - 216) / catching)))
+            }
+        }
     }
     
     public int criticalHit()
