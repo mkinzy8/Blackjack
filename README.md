@@ -1,2 +1,2 @@
-# Javamon
-Java Pokemon
+# Blackjack
+Card game
